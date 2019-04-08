@@ -1,0 +1,4 @@
+CS 290 Description:
+
+How to design and implement a multi-tier application using web technologies:
+  Creation of extensive custom client- and server-side code, consistent with achieving a high-quality software architecture.
